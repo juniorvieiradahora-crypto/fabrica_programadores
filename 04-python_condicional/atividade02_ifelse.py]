@@ -1,0 +1,10 @@
+# Autor: adriano viera
+# projeto: condicionais
+
+# definiçoes das variaveis
+nome = input('digite seu nome: ')
+nota = float(input('digite sua idade: '))
+if nota >= 18:
+    print('maior de idade!')
+else:
+    print('menor de idade!')
